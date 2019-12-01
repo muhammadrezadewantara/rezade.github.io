@@ -1,2 +1,2 @@
-JAVASCRIPT
-1.Membuat CRUD sederhana
+JAVASCRIPT PROJECT
+1.CRUD sederhana
